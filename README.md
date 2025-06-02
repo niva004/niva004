@@ -11,6 +11,8 @@ I'm an experienced **DevOps & Platform Engineer** and **Cloud Architect** with o
 * **Kubernetes Expert:** I work daily with Kubernetes, from cluster architecture to application and operational management.
 * **Cloud Architecture:** I design and implement solutions across leading cloud providers (e.g., **AWS, Azure, GCP**), focusing on efficiency and resilience.
 * **Security (DevSecOps):** I integrate best security practices at every stage of the software and infrastructure lifecycle.
+* * **AI (AIDevs):** 
+
 
 ---
 
