@@ -26,4 +26,4 @@ Outside the world of infrastructure and automation, **trading** is a strong pass
 
 If you're looking for an experienced DevOps specialist, Kubernetes expert, or Cloud Architect for freelance/contract projects (**Nebentätigkeit**) in Germany, or just want to chat about the latest trends in cloud or financial markets, feel free to reach out!
 
-🔗 [[Link to Your LinkedIn]](https://www.linkedin.com/in/pawel-wajdziak-346889229/)
+🔗 [[LinkedIn Profile]](https://www.linkedin.com/in/pawel-wajdziak-346889229/)
